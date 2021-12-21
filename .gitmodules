@@ -1,0 +1,3 @@
+[submodule "subModel1"]
+	path = subModel1
+	url = git@github.com:xiaoduv587/subModel1.git
