@@ -1,3 +1,6 @@
 [submodule "subModel1"]
 	path = subModel1
 	url = git@github.com:xiaoduv587/subModel1.git
+[submodule "subModel2"]
+	path = subModel2
+	url = git@github.com:xiaoduv587/subModel2.git
